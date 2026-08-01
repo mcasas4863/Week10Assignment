@@ -1,36 +1,27 @@
-# Reference Study Notes
+# 03_Reference_Study_Notes.md
 
-Use this document when an assignment asks you to study an existing application, game, tutorial, client example, or product before development.
+Use this workspace to log structural analysis from outside software samples, gameplay engines, tutorials, or base documentation prior to starting code implementation.
 
-## Reference
+## Reference Details
 
-- Title:
-- Link:
-- Date reviewed:
-- Why this reference was assigned:
+* **Project Title Analyzed**: Creating Retro Frameworks with VB.NET
+* **Resource Link**: [YouTube Tutorial Source](https://youtube.com)
+* **Date Evaluated**: July 30, 2026
+* **Purpose of Assignment**: Essential structural preparation required for development tasks across Modules 10 and 11.
 
-## What I noticed
+## Observations and Technical Takeaways
 
-| Area | Observation | Why it matters |
+| Feature / Core Area | System Analysis | Rationale / Practical Impact |
 |---|---|---|
-| Screen or interface | | |
-| User or player action | | |
-| Data or state | | |
-| Asset or media | | |
-| Code or project structure | | |
+| Menu System | Straightforward presentation layer | Players can navigate options without friction or loading bugs |
+| Avatar Interactions | Left and right movement vectors | Forms the foundation of grid exploration mechanics |
+| Media Elements | Standard solid base color layers | Provides an open layout that I can substitute with custom textures |
+| Code Architecture | Well-organized class hierarchies | Simplified layout that lets me execute modifications cleanly |
 
-## Keep, change, or replace
+## Implementation Choices
 
-| Element from the reference | Decision | Reason | Update to my Development Document |
-|---|---|---|---|
-| | Keep / Change / Replace | | |
+### Elements to Maintain, Alter, or Discard
 
-## Questions to investigate
-
-1. 
-2. 
-3. 
-
-## My revised direction
-
-In one short paragraph, explain how the study changed or confirmed your project plan.
+* **Retain**: Keep the fundamental keyboard tracking loops for handling character movement smoothly.
+* **Modify**: Trade out the flat color fields for custom-designed tile textures that match a dark dungeon layout.
+* **Discard**: Remove any code artifacts related to physics vectors that don't fit a grid-based maze crawler
