@@ -1,0 +1,16 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://microsoft.com"
+        xmlns:x="http://microsoft.com"
+        Title="Breakout Game" Height="450" Width="800" Background="Black">
+
+    <!-- The main canvas wrapper used by the code backend -->
+    <Canvas x:Name="GameCanvas">
+
+        <!-- The player paddle -->
+        <Rectangle x:Name="paddle" Width="120" Height="20" Fill="White" Canvas.Left="340" Canvas.Top="380"/>
+
+        <!-- The game ball -->
+        <Rectangle x:Name="ball" Width="15" Height="15" Fill="Red" Canvas.Left="392" Canvas.Top="200"/>
+
+    </Canvas>
+</Window>
