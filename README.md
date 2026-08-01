@@ -1,59 +1,24 @@
-## Project Name
+# Week10Assignment - Breakout Game
 
 ## Assignment
-
-- Course:
-- Assignment:
-- Developer or team:
-- Submitted repository:
+* **Course:** CS120 Computer Science
+* **Assignment:** Week 10 Assignment - Breakout Game
+* **Developer or team:** Jacob
+* **Submitted repository:** https://github.com
 
 ## Project summary
-
-Explain what the project does in three to five sentences.
+This project is a classic Breakout arcade game built using Windows Presentation Foundation (WPF) and Visual Basic .NET (VB.NET). The application features a main game canvas where a player controls a movable paddle at the bottom of the screen. The objective is to bounce a ball upwards to destroy a grid of bricks while preventing the ball from falling past the paddle. It demonstrates core object-oriented programming concepts, event-driven architecture, and UI rendering in WPF.
 
 ## How to open and run the project
-
-1. State the required editor and version.
-2. State the required workload, SDK, runtime, or package manager.
-3. Name the exact solution, project, or entry file to open.
-4. State the run command or button.
-5. Explain the expected first screen or output.
+1. **Required editor and version:** Visual Studio 2022 (or newer).
+2. **Required workload/SDK:** .NET Desktop Development workload with the .NET runtime environment.
+3. **Exact solution file to open:** Open the `src/dungeongame/BreakOutVB.sln` file inside Visual Studio.
+4. **Run command or button:** Click the green **Start** or **Debug** play button at the very top menu bar of Visual Studio.
+5. **Expected first screen:** A game window containing a main canvas backdrop, a retro grid pattern background, and the player's control paddle at the bottom.
 
 ## Controls or main workflow
+* **Move Left:** Press the **Left Arrow** key or **A** key to slide the paddle left.
+* **Move Right:** Press the **Right Arrow** key or **D** key to slide the paddle right.
+* **Goal:** Deflect the bouncing ball to break all the bricks on the 
 
-List the actions a reviewer should test.
 
-## Graded requirements map
-
-| Requirement | Location in this repository | Evidence |
-|---|---|---|
-| Requirement 1 | `docs/example.md` | `evidence/requirement-01.png` |
-
-## Repository map
-
-| Folder or file | Purpose |
-|---|---|
-| `src/` | Source project |
-| `assets/` | Project images, audio, data, or other media |
-| `docs/` | Development document, asset manifest, and test log |
-| `evidence/` | Screenshots, required posts, and demo proof |
-
-## Git checkpoints
-
-Summarize the main milestones represented in the commit history.
-
-## Known issues
-
-List any problem that remains and explain how it affects the project.
-
-## Asset credits
-
-Link to `docs/ASSET_MANIFEST.md`.
-
-## Submission access check
-
-- [ ] The exact repository link opens in a private or incognito browser window.
-- [ ] The root README appears when the repository opens.
-- [ ] All required files are committed and pushed.
-- [ ] No passwords, keys, or private personal data are included.
- Week10Assignment
