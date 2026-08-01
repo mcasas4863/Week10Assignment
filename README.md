@@ -3,7 +3,7 @@
 ## Assignment
 * **Course:** CS120 Computer Science
 * **Assignment:** Week 10 Assignment - Breakout Game
-* **Developer or team:** Jacob
+* **Developer or team:** Martha Casas
 * **Submitted repository:** https://github.com
 
 ## Project summary
