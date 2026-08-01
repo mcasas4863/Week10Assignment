@@ -5,7 +5,7 @@ Use one row for every image, icon, sound, font, video, dataset, library, or othe
 | Final filename | Status | Asset type | Source or creator | Source link | License or permission | Changes made | Planned use |
 |---|---|---|---|---|---|---|---|
 | example-room.png | Ready | Image | Your name | Original work | Original work | Cropped to 800 x 500 | Main game room |
-
+| dungon_bg.jpg | Ready | Image | Lea Kronenberger | [ArtStation Source](https://artstation.com) | Free for personal use | None | Main game background | ## Development Phase Terms * **`In-Progress`**: A placeholder or rough layout file is temporarily being used for testing. * **`Complete`**: The 
 ## Status choices
 
 - **Planned:** You know what is needed, but the final file is not ready.
